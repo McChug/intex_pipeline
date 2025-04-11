@@ -4,3 +4,4 @@ sqlalchemy
 numpy
 scipy
 scikit-learn
+python-dotenv
