@@ -1,7 +1,6 @@
 pandas
 pyodbc
 sqlalchemy
-papermill
 os
 numpy
 scipy
