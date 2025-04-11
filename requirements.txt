@@ -3,3 +3,4 @@ pyodbc
 sqlalchemy
 numpy
 scipy
+scikit-learn
