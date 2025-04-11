@@ -1,7 +1,6 @@
 pandas
 pyodbc
 sqlalchemy
-os
 numpy
 scipy
 sklearn
